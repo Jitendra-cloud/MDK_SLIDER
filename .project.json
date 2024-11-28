@@ -1,0 +1,13 @@
+{
+    "Credential": "cf",
+    "CF": {
+        "Target": "https://api.cf.sap.hana.ondemand.com",
+        "Organization": "",
+        "Space": ""
+    },
+    "MobileService": {
+        "AdminAPI": "https://mobile-service-cockpit-api.cfapps.us10.hana.ondemand.com/cockpit/v1/org/2e4f60dd-c85f-4ec6-8c17-a7cb7c1f693e/space/3b9fe47d-a49a-412c-870e-e3fbe40a6def",
+        "AppId": "myapp.mdk.demo",
+        "Destination": []
+    }
+}
